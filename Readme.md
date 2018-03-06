@@ -1,11 +1,8 @@
-## Analytics-前端-组件: Paginate
+## Paginate
 ##### 作者: *slaven*
 ## 用途说明
     1. 分页组件
     2. 兼具页码选择,跳页，左右页选择，开头、结尾页选择等功能。
-***
-### 依赖
-    lib-zen样式库
 ***
 ### 文件结构、用途简述
    > Paginate.vue
